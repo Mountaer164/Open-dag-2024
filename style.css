@@ -157,12 +157,15 @@ button{
 .container{
     display: flex;
    
+   
 }
 
 .home{
-    text-align: center;
+    align-items: center;
     padding-left: 50px;
     padding-top: 200px;
+    
+    
 
 }
 
@@ -171,13 +174,13 @@ button{
     font-size: 20px;
     font-family: 'Barlow', sans-serif;
     color: white;
-    display: flex;
-    justify-content: center;
-
+     display: flex;
+     text-wrap: nowrap;
+   
+  
 }
 .eerst a  {
 
-    
     
     font-size: 20px;
     font-family: 'Barlow', sans-serif;
@@ -275,8 +278,8 @@ button {
 
 .main2{
   
-    padding-left: 60px; 
-    margin-left: 60px;
+   
+     margin-left: 60px;
     font-size: 22px;
     font-weight: 700px;
     color: white;

@@ -1,5 +1,4 @@
 
-alert("Welkom in de open dag");
 
 function openZoekvenster() {
     
