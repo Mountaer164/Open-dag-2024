@@ -174,10 +174,17 @@ button{
     font-size: 20px;
     font-family: 'Barlow', sans-serif;
     color: white;
+<<<<<<< HEAD
      display: flex;
      text-wrap: nowrap;
    
   
+=======
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-wrap: nowrap;
+>>>>>>> acfe01711f42e2a6576745f092258952b6307e14
 }
 .eerst a  {
 
