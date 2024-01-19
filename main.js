@@ -1,5 +1,4 @@
 
-
 function openZoekvenster() {
     
     document.getElementById('zoekvenster').style.display = 'block';
